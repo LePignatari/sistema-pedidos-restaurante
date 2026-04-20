@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Order System (CLI)
+# 🍽️ Sistema Restaurantes (CLI)
 
 Sistema de gerenciamento de pedidos de restaurante desenvolvido em Python, utilizando Programação Orientada a Objetos (POO).
 
